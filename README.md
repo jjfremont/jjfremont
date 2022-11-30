@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jjfremont
 - 👀 I’m interested in food, art, archives, and Web3
-- 🌱 I’m currently doing a dive into learning about Web3 and Metaverse, Idea Maze, Domain Founder School (independent, self-guided), and history of, and the technology to realize Cottagecore. I'm Domain Founder and stewardess of
+- 🌱 I’m currently doing a dive into Web3 and Metaverse, Idea Maze, Domain Founder School (independent, self-guided), and history of, and the technology to realize Cottagecore. 
 - 💞️ I’m looking to collaborate on the technology that creates places in the Metaverse
 - 📫 How to reach me jjfremont@yahoo.com
 
