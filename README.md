@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jennifer Frémont
 - 👀 I’m interested in food, art, archives, and technology
 - 🌱 I’m currently building Tiny Archives
-- 📫 How to reach me jjfremont@yahoo.com
+- 📫 How to reach me jjfremont@tinyarchives.com
 
 <!---
 jjfremont/jjfremont is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
