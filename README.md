@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jennifer Fremont
+- 👋 Hi, I’m Jennifer Frémont
 - 👀 I’m interested in food, art, archives, and technology
 - 🌱 I’m currently building Tiny Archives
 - 📫 How to reach me jjfremont@yahoo.com
